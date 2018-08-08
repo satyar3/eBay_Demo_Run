@@ -1,0 +1,22 @@
+2018-08-08 06:05:36,241  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 06:05:41,037  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 06:06:03,098  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 06:06:04,756  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 06:06:05,196  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 06:06:17,132  INFO [main] TestBase:11 - Proceeding to pay
+2018-08-08 06:06:31,159  INFO [main] TestBase:14 - UPI Payment selected
+2018-08-08 06:06:32,443  INFO [main] TestBase:18 - UPI Payment selected
+2018-08-08 06:06:33,389  INFO [main] TestBase:20 - UPI Payment clicked
+2018-08-08 06:06:33,389  INFO [main] TestBase:60 - TC_01 execution has been completed2018-08-08 06:36:48,846  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 06:36:53,822  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 06:37:11,885  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 06:38:27,325  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 06:38:32,313  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 06:38:53,443  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 06:38:55,028  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 06:38:55,542  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 06:39:06,551  INFO [main] TestBase:11 - Proceeding to pay
+2018-08-08 06:39:19,651  INFO [main] TestBase:13 - UPI Payment selected
+2018-08-08 06:39:20,955  INFO [main] TestBase:17 - UPI Payment selected
+2018-08-08 06:39:22,080  INFO [main] TestBase:19 - UPI Payment clicked
+2018-08-08 06:39:22,081  INFO [main] TestBase:60 - TC_01 execution has been completed

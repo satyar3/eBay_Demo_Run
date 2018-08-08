@@ -1,0 +1,8 @@
+com\qa\pages\ScreenRotate.class
+com\qa\pages\SearchProductAndSelect.class
+com\qa\pages\ProductPage.class
+com\qa\util\TestUtil.class
+com\qa\pages\BuyPage.class
+com\qa\pages\PaymentMethod.class
+com\qa\base\TestBase.class
+com\qa\pages\QuantityPage.class
