@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="121648" started-at="2018-08-08T00:59:08Z" finished-at="2018-08-08T01:01:09Z">
+  <suite name="Default suite" duration-ms="202129" started-at="2018-08-08T12:01:27Z" finished-at="2018-08-08T12:04:49Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="121648" started-at="2018-08-08T00:59:08Z" finished-at="2018-08-08T01:01:09Z">
+    <test name="Default test" duration-ms="202129" started-at="2018-08-08T12:01:27Z" finished-at="2018-08-08T12:04:49Z">
       <class name="com.qa.test.SearchProductAndSelectTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.SearchProductAndSelectTest@55b0dcab]" name="setUp" is-config="true" duration-ms="19061" started-at="2018-08-08T00:59:08Z" finished-at="2018-08-08T00:59:27Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.SearchProductAndSelectTest@55b0dcab]" name="setUp" is-config="true" duration-ms="22233" started-at="2018-08-08T12:01:27Z" finished-at="2018-08-08T12:01:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="FAIL" signature="productSelction(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.qa.test.SearchProductAndSelectTest@55b0dcab]" name="productSelction" duration-ms="96874" started-at="2018-08-08T00:59:28Z" description="Test the product selection and buy functionality" data-provider="getTestData" finished-at="2018-08-08T01:01:05Z">
+        <test-method status="FAIL" signature="productSelction(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.qa.test.SearchProductAndSelectTest@55b0dcab]" name="productSelction" duration-ms="175009" started-at="2018-08-08T12:01:50Z" description="Test the product selection and buy functionality" data-provider="getTestData" finished-at="2018-08-08T12:04:45Z">
           <params>
             <param index="0">
               <value>
@@ -52,7 +52,7 @@ Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.2
 System info: host: 'IN2070121W2', ip: '192.168.52.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
 Driver info: io.appium.java_client.android.AndroidDriver
 Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: 92010457a0ce2315, noReset: true, platformName: android, version: 5.1.1}, deviceManufacturer: samsung, deviceModel: SM-J200G, deviceName: 92010457a0ce2315, deviceScreenSize: 540x960, deviceUDID: 92010457a0ce2315, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, platform: LINUX, platformName: Android, platformVersion: 5.1.1, takesScreenshot: true, version: 5.1.1, warnings: {}, webStorageEnabled: false}
-Session ID: 1ee9dfa6-c5da-43ff-b460-08a708d081de
+Session ID: a7a3940b-4757-4977-86e2-837ac6c3e817
 *** Element info: {Using=-android uiautomator, value=new UiScrollable(new UiSelector()).scrollIntoView(text("UPI"))}]]>
             </message>
             <full-stacktrace>
@@ -62,7 +62,7 @@ Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.2
 System info: host: 'IN2070121W2', ip: '192.168.52.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
 Driver info: io.appium.java_client.android.AndroidDriver
 Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: 92010457a0ce2315, noReset: true, platformName: android, version: 5.1.1}, deviceManufacturer: samsung, deviceModel: SM-J200G, deviceName: 92010457a0ce2315, deviceScreenSize: 540x960, deviceUDID: 92010457a0ce2315, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, platform: LINUX, platformName: Android, platformVersion: 5.1.1, takesScreenshot: true, version: 5.1.1, warnings: {}, webStorageEnabled: false}
-Session ID: 1ee9dfa6-c5da-43ff-b460-08a708d081de
+Session ID: a7a3940b-4757-4977-86e2-837ac6c3e817
 *** Element info: {Using=-android uiautomator, value=new UiScrollable(new UiSelector()).scrollIntoView(text("UPI"))}
 at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
@@ -83,7 +83,7 @@ at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
 at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
 at io.appium.java_client.FindsByAndroidUIAutomator.findElementByAndroidUIAutomator(FindsByAndroidUIAutomator.java:38)
 at com.qa.pages.PaymentMethod.paymentMethod(PaymentMethod.java:14)
-at com.qa.test.SearchProductAndSelectTest.productSelction(SearchProductAndSelectTest.java:58)
+at com.qa.test.SearchProductAndSelectTest.productSelction(SearchProductAndSelectTest.java:59)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -115,7 +115,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- productSelction -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.SearchProductAndSelectTest@55b0dcab]" name="tearDown" is-config="true" duration-ms="4478" started-at="2018-08-08T01:01:05Z" finished-at="2018-08-08T01:01:09Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.SearchProductAndSelectTest@55b0dcab]" name="tearDown" is-config="true" duration-ms="3906" started-at="2018-08-08T12:04:45Z" finished-at="2018-08-08T12:04:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

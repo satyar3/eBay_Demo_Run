@@ -19,4 +19,280 @@
 2018-08-08 06:39:19,651  INFO [main] TestBase:13 - UPI Payment selected
 2018-08-08 06:39:20,955  INFO [main] TestBase:17 - UPI Payment selected
 2018-08-08 06:39:22,080  INFO [main] TestBase:19 - UPI Payment clicked
-2018-08-08 06:39:22,081  INFO [main] TestBase:60 - TC_01 execution has been completed
+2018-08-08 06:39:22,081  INFO [main] TestBase:60 - TC_01 execution has been completed2018-08-08 07:32:45,836  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 07:32:50,692  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 07:33:11,679  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 07:35:41,897  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 07:35:46,818  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 07:36:06,614  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 07:36:08,172  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 07:36:08,669  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 07:36:08,669  INFO [main] TestBase:59 - TC_01 execution has been completed
+2018-08-08 07:38:27,188  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 07:38:32,165  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 07:38:49,817  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 07:38:51,405  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 07:38:51,866  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 07:39:03,730  INFO [main] TestBase:59 - TC_01 execution has been completed
+2018-08-08 07:49:22,019  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 07:49:27,038  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 07:49:47,729  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 07:49:49,333  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 07:49:49,820  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 07:50:20,264  INFO [main] TestBase:60 - TC_01 execution has been completed
+2018-08-08 07:51:43,660  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 07:51:48,604  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 07:52:09,462  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 07:52:11,261  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 07:52:11,781  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 07:54:03,931  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 07:54:08,714  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 07:54:27,932  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 07:54:29,638  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 07:54:30,153  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 07:55:39,911  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 07:55:44,524  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 07:56:04,695  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 07:56:06,395  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 07:56:06,913  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 07:57:55,633  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 07:58:00,327  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 07:58:20,091  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 07:58:21,737  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 07:58:22,249  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 11:55:17,232  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 11:57:44,354  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 11:57:49,800  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 11:58:10,245  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 11:58:12,092  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 11:58:12,983  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 11:58:25,620  INFO [main] TestBase:11 - Proceeding to pay
+2018-08-08 12:01:21,642  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 12:01:26,439  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 12:01:48,562  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 12:01:50,240  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 12:01:50,715  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 12:02:02,637  INFO [main] TestBase:11 - Proceeding to pay
+2018-08-08 12:03:09,584  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 12:03:14,627  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 12:03:36,357  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 12:03:37,992  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 12:03:38,480  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 12:03:55,622  INFO [main] TestBase:11 - Proceeding to pay
+2018-08-08 12:03:56,770  INFO [main] TestBase:14 - UPI Payment selected
+2018-08-08 12:05:24,039  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 12:05:28,949  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 12:05:46,778  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 12:05:48,396  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 12:05:48,903  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 12:06:04,296  INFO [main] TestBase:11 - Proceeding to pay
+2018-08-08 12:07:34,961  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 12:07:40,030  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 12:07:58,077  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 12:07:59,863  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 12:08:00,340  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 12:08:17,207  INFO [main] TestBase:11 - Proceeding to pay
+2018-08-08 12:08:18,280  INFO [main] TestBase:14 - UPI Payment selected
+2018-08-08 12:12:14,625  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 12:12:19,589  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 12:12:41,268  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 12:12:42,862  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 12:12:43,387  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 12:12:56,422  INFO [main] TestBase:11 - Proceeding to pay
+2018-08-08 12:13:00,431  INFO [main] TestBase:14 - UPI Payment selected
+2018-08-08 12:25:39,276  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 12:25:44,446  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 12:26:05,282  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 12:26:07,085  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 12:26:07,583  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 12:26:23,317  INFO [main] TestBase:11 - Proceeding to pay
+2018-08-08 12:28:05,191  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 12:28:10,471  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 12:28:32,356  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 12:28:34,009  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 12:28:34,484  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 12:28:48,629  INFO [main] TestBase:11 - Proceeding to pay
+2018-08-08 12:30:38,762  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 12:30:43,820  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 12:31:06,868  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 12:31:08,552  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 12:31:09,077  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 12:31:22,164  INFO [main] TestBase:11 - Proceeding to pay
+2018-08-08 12:33:17,487  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 12:33:24,928  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 12:33:45,216  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 12:33:46,864  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 12:33:47,385  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 12:34:00,079  INFO [main] TestBase:11 - Proceeding to pay
+2018-08-08 12:34:59,587  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 12:35:04,530  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 12:35:24,399  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 12:35:26,088  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 12:35:26,593  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 12:35:41,829  INFO [main] TestBase:11 - Proceeding to pay
+2018-08-08 12:38:42,893  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 12:38:47,974  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 12:39:09,169  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 12:39:10,853  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 12:39:11,311  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 12:39:24,172  INFO [main] TestBase:11 - Proceeding to pay
+2018-08-08 12:41:02,577  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 12:41:07,777  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 12:42:09,430  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 12:42:14,178  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 12:42:32,428  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 12:42:34,048  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 12:42:34,488  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 12:42:48,130  INFO [main] TestBase:11 - Proceeding to pay
+2018-08-08 12:56:18,513  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 12:56:23,570  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 12:56:43,449  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 12:56:45,169  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 12:56:45,689  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 12:56:59,614  INFO [main] TestBase:12 - Proceeding to pay
+2018-08-08 13:01:18,255  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 13:01:23,876  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 13:01:44,687  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 13:01:46,407  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 13:01:46,884  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 13:04:33,757  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 13:04:38,857  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 13:05:01,079  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 13:05:02,956  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 13:05:03,360  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 13:05:55,958  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 13:06:00,890  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 13:06:16,923  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 13:06:18,533  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 13:06:19,044  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 13:08:47,773  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 13:08:52,669  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 13:09:12,793  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 13:09:14,478  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 13:09:14,933  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 13:10:42,603  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 13:10:47,216  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 13:11:07,799  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 13:11:10,461  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 13:11:11,042  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 13:11:24,672  INFO [main] TestBase:38 - Proceeding to pay
+2018-08-08 13:13:13,867  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 13:13:18,821  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 13:13:39,135  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 13:13:40,907  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 13:13:41,337  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 13:13:57,434  INFO [main] TestBase:40 - Proceeding to pay
+2018-08-08 13:15:12,584  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 13:15:17,779  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 13:15:36,493  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 13:15:38,328  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 13:15:38,824  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 13:15:53,140  INFO [main] TestBase:40 - Proceeding to pay
+2018-08-08 13:17:47,728  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 13:17:52,806  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 13:18:15,343  INFO [main] TestBase:12 - Buy it now clicked
+2018-08-08 13:18:16,988  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 13:18:17,445  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 13:18:41,142  INFO [main] TestBase:45 - Proceeding to pay
+2018-08-08 13:18:49,785  INFO [main] TestBase:27 - UPI Payment selected
+2018-08-08 13:18:51,095  INFO [main] TestBase:31 - UPI Payment selected
+2018-08-08 13:18:52,230  INFO [main] TestBase:33 - UPI Payment clicked
+2018-08-08 13:18:52,231  INFO [main] TestBase:60 - TC_01 execution has been completed
+2018-08-08 13:24:44,447  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 13:24:49,526  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 13:26:53,258  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 13:26:57,937  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 13:28:52,763  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 13:28:57,846  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 13:30:21,390  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 13:30:26,355  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 13:31:53,325  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 13:31:58,292  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 13:34:34,365  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 13:34:39,351  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 13:36:27,053  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 13:36:31,845  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 14:49:40,892  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 14:49:45,695  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 14:59:52,500  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 14:59:57,487  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 15:01:59,585  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 15:02:04,648  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 15:05:44,985  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 15:05:49,876  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 15:35:12,490  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 15:35:17,403  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 15:38:17,651  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 15:38:22,523  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 15:45:47,212  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 15:45:52,026  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 15:47:46,024  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 15:47:50,439  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 15:58:45,945  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 15:58:50,904  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 16:00:47,277  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 16:00:52,409  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 16:02:57,520  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 16:03:02,589  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 16:05:25,859  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 16:05:31,009  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 16:08:36,543  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 16:08:41,746  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 16:23:58,547  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 16:24:03,997  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 16:25:37,457  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 16:25:42,082  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 16:26:06,094  INFO [main] TestBase:28 - Buy it now clicked
+2018-08-08 16:33:29,306  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 16:33:34,708  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 16:34:04,932  INFO [main] TestBase:41 - Buy it now clicked
+2018-08-08 16:35:48,646  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 16:35:53,830  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 16:36:22,099  INFO [main] TestBase:41 - Buy it now clicked
+2018-08-08 16:38:26,398  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 16:38:31,487  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 16:39:06,209  INFO [main] TestBase:41 - Buy it now clicked
+2018-08-08 16:39:56,432  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 16:40:01,186  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 16:40:28,056  INFO [main] TestBase:41 - Buy it now clicked
+2018-08-08 16:43:48,658  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 16:43:53,501  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 16:46:01,285  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 16:46:06,319  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 16:53:21,699  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 16:53:26,760  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 16:59:22,585  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 16:59:27,629  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 17:01:12,941  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 17:01:17,687  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 17:02:54,850  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 17:02:59,753  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 17:05:29,249  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 17:05:33,937  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 17:09:04,596  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 17:09:09,539  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 17:10:35,077  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 17:10:39,778  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 17:12:17,547  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 17:12:22,395  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 17:12:56,552  INFO [main] TestBase:50 - Buy it now clicked
+2018-08-08 17:12:59,152  INFO [main] TestBase:34 - Qunaity swiped
+2018-08-08 17:12:59,573  INFO [main] TestBase:38 - Item reviewed
+2018-08-08 17:13:25,355  INFO [main] TestBase:23 - Proceeding to pay
+2018-08-08 17:13:33,048  INFO [main] TestBase:15 - UPI Payment selected
+2018-08-08 17:13:34,408  INFO [main] TestBase:19 - UPI Payment selected
+2018-08-08 17:13:35,564  INFO [main] TestBase:21 - UPI Payment clicked
+2018-08-08 17:13:35,564  INFO [main] TestBase:61 - TC_01 execution has been completed
+2018-08-08 17:18:56,349  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 17:19:02,319  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 17:19:39,762  INFO [main] TestBase:50 - Buy it now clicked
+2018-08-08 17:21:01,426  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 17:21:06,569  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 17:21:40,691  INFO [main] TestBase:50 - Buy it now clicked
+2018-08-08 17:21:56,324  INFO [main] TestBase:28 - Proceeding to pay
+2018-08-08 17:29:50,849  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 17:29:56,063  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 17:32:00,087  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-08-08 17:32:04,856  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
+2018-08-08 17:34:10,539  INFO [main] TestBase:71 - Buy it now clicked
+2018-08-08 17:34:24,302  INFO [main] TestBase:28 - Proceeding to pay

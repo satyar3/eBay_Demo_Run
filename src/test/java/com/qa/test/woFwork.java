@@ -14,7 +14,7 @@ import com.qa.pages.ScreenRotate;
 import com.qa.pages.SearchProductAndSelect;
 import com.qa.util.TestUtil;
 
-public class SearchProductAndSelectTest extends TestBase {
+public class woFwork extends TestBase {
 
 	SearchProductAndSelect selproduct;
 	ProductPage prodpage;
@@ -24,7 +24,7 @@ public class SearchProductAndSelectTest extends TestBase {
 	ScreenRotate rotate;
 	String produtsheet_name = "TestDataSheet";
 
-	public SearchProductAndSelectTest() {
+	public woFwork() {
 		super();
 	}
 
@@ -53,11 +53,10 @@ public class SearchProductAndSelectTest extends TestBase {
 		selproduct.prodcutSearchAndSelect(productname, itemname);
 		selproduct.scrollToItem(modelnum);
 		prodpage.productDetailsAndBuy();
-		//prodpage.swipeFromUpToBottom();
-		//qtyselect.swipeToSelectQty(qty);
-		buy.buyNow();
+		qtyselect.swipeToSelectQty(qty);
+		driver.findElementByAndroidUIAutomator("new UiScrollable(new UiSelector()).scrollIntoView(textContains(\"Proceed to Pay\"))").click();
+		driver.findElementByAndroidUIAutomator("new UiScrollable(new UiSelector()).scrollIntoView(text(\""+"2"+"\"))").click();
 		paymentmethod.paymentMethod(paymentmethodname);
-
 		log.info(tcnum + " execution has been completed");
 	}
 
