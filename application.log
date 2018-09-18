@@ -296,3 +296,5 @@
 2018-08-08 17:32:04,856  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
 2018-08-08 17:34:10,539  INFO [main] TestBase:71 - Buy it now clicked
 2018-08-08 17:34:24,302  INFO [main] TestBase:28 - Proceeding to pay
+2018-09-12 12:21:38,553  INFO [main] TestBase:20 - User Entered Product Name as : rayban sunglasses
+2018-09-12 12:21:41,878  INFO [main] TestBase:32 - Item Name Selected is : rayban sunglasses men
